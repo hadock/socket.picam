@@ -1,0 +1,19 @@
+{
+  "name": "front.socket.picam",
+  "version": "1.0.0",
+  "description": "This is the front for this project (simple html)",
+  "main": "front_server.js",
+  "scripts": {
+    "test": "node front_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadock/socket.picam.git"
+  },
+  "author": "Hadock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadock/socket.picam/issues"
+  },
+  "homepage": "https://github.com/hadock/socket.picam#readme"
+}

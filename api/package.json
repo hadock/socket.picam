@@ -1,0 +1,16 @@
+{
+  "name": "api.socket.picam",
+  "version": "1.0.0",
+  "description": "Simple socket to stream a picam",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "picam",
+    "nodejs",
+    "stream"
+  ],
+  "author": "Hadock",
+  "license": "ISC"
+}
